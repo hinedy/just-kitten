@@ -1,4 +1,4 @@
-import { catsData } from '/modules/data.js'
+import { catsData } from './modules/data.js'
 
 const emotionRadios = document.getElementById('emotion-radios')
 const getImageBtn = document.getElementById('get-image-btn')
